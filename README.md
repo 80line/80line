@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on: **refining SD Hunger Coalition's data methodology, automating processes, creating new visualizations, and setting up predictive models for food assistance forecasting**
 
-- 🌱 I’m currently learning: **SQL, NLP, and how to make matcha at home**
+- 🍵 I’m currently learning: **SQL, NLP, and how to make matcha at home**
 
 - 💬 Ask me about: **interdisciplinary data science, accessible UX design, and Overwatch 2**
 
 - 📫 How to reach me: **aliem@ucsd.edu**
 
-- ⚡ Fun fact: **I've been to 5 continents!**
+- 🪷 Fun fact: **I've been to 5 continents!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
