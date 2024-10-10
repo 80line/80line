@@ -5,7 +5,7 @@
 
 - 🍵 I’m currently learning: **SQL, NLP, and how to make matcha at home**
 
-- 💬 Ask me about: **interdisciplinary data science, accessible UX design, and Overwatch 2**
+- 💬 Ask me about: **interdisciplinary data science, accessible product design, and Overwatch 2**
 
 - 📫 How to reach me: **aliem@ucsd.edu**
 
