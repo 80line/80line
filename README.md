@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adeline!</h1>
 <h3 align="center">Passionate Computational Social Sciences M.S. student at UC San Diego</h3>
 
-- 🔭 I’m currently working on: **refining SD Hunger Coalition's data methodology, automating processes, creating new visualizations, and setting up predictive models for food assistance forecasting**
+- 🔭 I’m currently working on: **refining data methodology, automating processes, creating new visualizations, and setting up predictive models for food assistance forecasting for SD Hunger Coalition**
 
 - 🍵 I’m currently learning: **SQL, NLP, and how to make matcha at home**
 
