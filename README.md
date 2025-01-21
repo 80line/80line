@@ -7,9 +7,9 @@
 
 - 💬 Ask me about: **interdisciplinary data science, accessible product design, and Overwatch 2**
 
-- 📫 How to reach me: **aliem@ucsd.edu**
-
 - 🪷 Fun fact: **I've been to 5 continents!**
+
+- 📫 Let's chat: **aliem@ucsd.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
