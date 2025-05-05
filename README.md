@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **refining data methodology, creating new visualizations, and setting up predictive models for food assistance forecasting for SD Hunger Coalition**
 
-- 🍵 I’m currently learning: **R, NLP, and how to make matcha at home**
+- 🍵 I’m currently learning: **Dashboarding tools, NLP, and how to make matcha at home**
 
 - 💬 Ask me about: **interdisciplinary data science, accessible product design, and Overwatch 2**
 
